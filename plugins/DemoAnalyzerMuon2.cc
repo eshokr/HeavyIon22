@@ -461,8 +461,8 @@ void DemoAnalyzerMuon2::beginJob() {
  treeMuon->Branch("tracksEta", &tracksEta_);
 
 
- treeMuon->Branch("muonPtAnyMuon", &muonPtSoftMuon_);
- treeMuon->Branch("muonEtaAnyMuon", &muonEtaSoftMuon_);
+ treeMuon->Branch("muonPtAnyMuon", &muonPtAnyMuon_);
+ treeMuon->Branch("muonEtaAnyMuon", &muonEtaAnyMuon_);
  treeMuon->Branch("invariantMass2MuonAnyMuon", &invariantMass2MuonAnyMuon_);
  treeMuon->Branch("deltaPhi2MuonAnyMuon",&deltaPhi2MuonAnyMuon_);
 
