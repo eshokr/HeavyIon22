@@ -1,20 +1,4 @@
-// -*- C++ -*-
-//
-// Package:    Demo/DemoAnalyzerTrack
-// Class:      DemoAnalyzerTrack
-//
-/**\class DemoAnalyzerTrack DemoAnalyzerTrack.cc Demo/DemoAnalyzerTrack/plugins/DemoAnalyzerTrack.cc
 
- Description: [one line class summary]
-
- Implementation:
-     [Notes on implementation]
-*/
-//
-// Original Author:  Shengquan Tuo
-//         Created:  Mon, 27 Sep 2021 15:49:48 GMT
-//
-//
 
 // system include files
 #include <memory>
